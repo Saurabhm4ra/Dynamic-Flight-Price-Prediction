@@ -36,6 +36,7 @@ Model Performance: The selected model’s performance is evaluated using metrics
 Optimization Outcome: The results of the optimization process are discussed, focusing on the potential increase in revenue by adopting the optimized prices.
 
 Revenue before optimization: 5200284.50
+
 Revenue after optimization: 6239057.83
 
 As can be seen fromm the result that the revenue is increased by 20%. So our objective of increasing the revenue with optimized predicted price is achieved.
