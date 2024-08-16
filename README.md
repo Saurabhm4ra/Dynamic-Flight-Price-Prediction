@@ -12,7 +12,7 @@ The development of a model to predict and optimize flight prices. The primary ob
 ## 2. Data Preprocessing
 
     Loading and Cleaning Data: The dataset containing historical flight prices and relevant features is loaded and cleaned. Missing values are handled appropriately.
-    Feature Engineering: New features are created based on the existing data to improve the model's predictive capabilities. These features include temporal variables (like day of the week), flight-specific attributes (e.g., airline, distance), and interaction terms.
+    Feature Engineering: New features are created based on the existing data to improve the model's predictive capabilities. These features include temporal variables (like      day of the week), flight-specific attributes (e.g., airline, distance) etc (can be explored in the data given in the drive)
 
 ## 3. Exploratory Data Analysis (EDA)
 
@@ -27,7 +27,7 @@ The development of a model to predict and optimize flight prices. The primary ob
 
 ## 5. Optimization Process
 
-    Price Optimization: The model's predictions are used to identify optimized prices. This involves comparing predicted prices with optimized ones to determine the most profitable pricing strategy.
+    Price Optimization: The model's predictions are used to identify optimized prices. This involves comparing predicted prices with optimized ones to determine the most         profitable pricing strategy.
     Distribution Analysis: A KDE plot compares the distribution of predicted and optimized prices, highlighting the differences and potential areas for improvement.
 
 ## 6. Results and Discussion
